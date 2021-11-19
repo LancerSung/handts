@@ -1,0 +1,14 @@
+{
+  "name": "handts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LancerSung/handts.git",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "author": "宋玉震 <songyzh@dist.com.cn>",
+  "license": "MIT"
+}
